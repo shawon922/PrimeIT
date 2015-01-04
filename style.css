@@ -1,0 +1,19 @@
+.color-change{
+    color: red;
+}
+
+div {
+    color: red;
+}
+
+[example] {
+    color: blue;
+}
+
+.hello {
+    color: green;
+}
+
+div {
+    color: black;
+}
